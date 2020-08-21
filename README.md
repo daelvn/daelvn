@@ -12,7 +12,7 @@
   <br>
   working on: <a href="https://github.com/daelvn/pesterkit">pesterkit</a>, <a href="https://github.com/Pancakeddd/Webchum">webchum</a>, <a href="https://github.com/daelvn/website">website</a>.
   <br>
-  looking to collaborate on: <a href="https://computercraft.cc/">computercraft</a> anything, typed lua alternative.
+  looking to collaborate on: <a href="https://computercraft.cc/">computercraft</a> anything, typed lua alternative. lua package manager alternative.
   <br> 
   reach me at: <a href="mailto:daelvn@gmail.com">email</a>, <a href="https://daelvn.com">website</a>, <a href="https://daelvn.com/sn/discord">discord</a>, <a href="https://forum.homestuck.xyz/viewtopic.php?f=7&t=467">pesterchum</a> (angelicEternity).
   <br>
