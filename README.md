@@ -13,7 +13,9 @@
   working on: <a href="https://github.com/daelvn/filekit">filekit</a>, <a href="https://github.com/daelvn/fir">fir</a>, <a href="https://github.com/daelvn/website">website</a>.
   <br>
   looking to collaborate on: lua package manager alternative. ml types for lua. <a href="https://computercraft.cc/">computercraft</a> anything.
-  <br> 
+  <br>
+  <a href="https://github.com/daelvn/daelvn/projects/1">check my roadmap</a> 
+  <br>
   reach me at: <a href="mailto:daelvn@gmail.com">email</a>, <a href="https://daelvn.com">website</a>, <a href="https://daelvn.com/sn/discord">discord</a>, <a href="https://forum.homestuck.xyz/viewtopic.php?f=7&t=467">pesterchum</a> (angelicEternity).
   <br>
   <br>
