@@ -1,30 +1,96 @@
-<p align="center">
-  <br>
-  <br>
-  <br>
-  <img src="https://avatars2.githubusercontent.com/u/7452388?s=460&u=05f275d28f468e48d8969ab90e432bca082be73e&v=4" width=128 height=128>
-  <br>
-  <b>hi. i'm dael/kankri.</b>
-  <br>
-  <i>they/them. nb.</i>
-  <br>
-  i am a filthy homestuck who is into poetry, philosophy and programming.
-  <br>
-  languages: lua, moonscript, teal.
-  interested in: haskell, js.
-  <br>
-  working on: <a href="https://github.com/daelvn/filekit">filekit</a>, <a href="https://github.com/daelvn/fir">fir</a>, <a href="https://github.com/daelvn/website">website</a>.
-  <br>
-  looking to collaborate on: <a href="//github.com/daelvn/meteor">lua package manager alternative</a>. ml types for lua. <a href="https://computercraft.cc/">computercraft</a> anything.
-  <br>
-  <a href="https://github.com/daelvn/daelvn/projects/1">check my roadmap</a> 
-  <br>
-  reach me at: <a href="mailto:daelvn@gmail.com">email</a>, <a href="https://daelvn.com/sn/discord">discord</a>, <a href="https://forum.homestuck.xyz/viewtopic.php?f=7&t=467">pesterchum</a> (angelicEternity).
-  <br>
-  <br>
-  never thought i would see my mediocre code on the arctic but here i am.<br>
-  back on track baybeee
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=daelvn&style=flat-square&color=blueviolet&label=profile+views.">
-  <br>
-</p>
+### <div align="center">Hola! 👋 Soy Dáel, estudiante de Filosofía y programadore como hobby</div>
+
+
+- 🔭 Mis proyectos actuales son [Hal Jr](https://github.com/daelvn/haljr) y [Pestergen
+React](https://github.com/daelvn/pestergen-react)
+
+
+- 🌱 Mis lenguajes principales son Lua y JavaScript, pero he experimentado con Haskell y Python
+
+
+- ⚡ Soy fan de los paradigmas funcionales y de crear pequeñas herramientas
+
+
+- 👽 Programo esporádicamente, pero siempre con ganas
+
+
+<br />
+
+
+## Mis competencias
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+
+
+### Lenguajes
+- ✅ Lua/[MoonScript](https://moonscript.org/)
+- ✅ JavaScript
+- ✅ HTML5/CSS3
+- 🟡 SASS
+- 🟡 TypeScript
+- 🟡 Haskell
+- ❓ Python
+
+
+    </td>
+    <td valign="top" width="33%">
+
+
+
+### Frameworks
+- ✅ [Lapis](https://leafo.net/lapis/)
+- ✅ [LÖVE](https://love2d.org/)
+- ✅ SQLite
+- ✅ [Materialize CSS](https://materializecss.com/)
+- 🟡 NodeJS
+- 🟡 PostgreSQL
+- ❓ ReactJS
+
+
+    </td>
+    <td valign="top" width="33%">
+
+
+
+### Tools
+- ✅ VSCode
+- ✅ [Twine](https://twinery.org/)
+- 🟡 Vim
+- ❓ Docker
+
+
+    </td>
+  </tr>
+</table>
+
+<br />
+
+
+## Github Stats
+<div align="center"><img
+    src="https://github-readme-stats.vercel.app/api?username=daelvn&show_icons=true&count_private=true&hide_border=true"
+    align="center" /></div>
+
+<br />
+
+<div align="center"><img
+    src="https://spotify-github-profile.vercel.app/api/view?uid=daelvn&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=daelvn&&style=flat-square" align="center" />
+</div>
+
+
+<br />
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
+</div>
