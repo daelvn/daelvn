@@ -17,10 +17,10 @@ React](https://github.com/daelvn/pestergen-react)
 <br />
 
 
-## Mis competencias
-<table>
+## <div align="center">Mis competencias</div>
+<table align="center">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top">
 
 
 
@@ -35,7 +35,7 @@ React](https://github.com/daelvn/pestergen-react)
 
 
     </td>
-    <td valign="top" width="33%">
+    <td valign="top">
 
 
 
@@ -50,7 +50,7 @@ React](https://github.com/daelvn/pestergen-react)
 
 
     </td>
-    <td valign="top" width="33%">
+    <td valign="top">
 
 
 
@@ -68,7 +68,7 @@ React](https://github.com/daelvn/pestergen-react)
 <br />
 
 
-## Github Stats
+## <div align="center">Estadísticas</div>
 <div align="center"><img
     src="https://github-readme-stats.vercel.app/api?username=daelvn&show_icons=true&count_private=true&hide_border=true"
     align="center" /></div>
