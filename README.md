@@ -1,21 +1,13 @@
-### <div align="center">Hola! 👋 Soy Dáel, estudiante de Filosofía y programadore como hobby</div>
+### <div align="center">Hola! 👋 Soy Dáel, programadore full-stack</div>
 
 
-- 🔭 Mis proyectos actuales son [Hal Jr](https://github.com/daelvn/haljr) y [Pestergen
-React](https://github.com/daelvn/pestergen-react)
+- 🔭 Mis proyectos actuales son [alfons](https://github.com/daelvn/alfons) y un proyecto privado para la empresa en la que trabajo.
 
-
-- 🌱 Mis lenguajes principales son Lua y JavaScript, pero he experimentado con Haskell y Python
-
+- 🌱 Mis lenguajes principales son Lua y JavaScript.
 
 - ⚡ Soy fan de los paradigmas funcionales y de crear pequeñas herramientas
 
-
-- 👽 Programo esporádicamente, pero siempre con ganas
-
-
 <br />
-
 
 ## <div align="center">Mis competencias</div>
 <table align="center">
@@ -26,11 +18,10 @@ React](https://github.com/daelvn/pestergen-react)
 
 ### Lenguajes
 - ✅ Lua/[MoonScript](https://moonscript.org/)
-- ✅ JavaScript
+- ✅ JavaScript y TypeScript
 - ✅ HTML5/CSS3
 - 🟡 SASS
-- 🟡 TypeScript
-- 🟡 Haskell
+- ❓ Haskell
 - ❓ Python
 
 
@@ -40,13 +31,15 @@ React](https://github.com/daelvn/pestergen-react)
 
 
 ### Frameworks
-- ✅ [Lapis](https://leafo.net/lapis/)
-- ✅ [LÖVE](https://love2d.org/)
 - ✅ SQLite
-- ✅ [Materialize CSS](https://materializecss.com/)
-- 🟡 NodeJS
+- ✅ NodeJS
+- ✅ NextJS
+- ✅ React
+- ✅ Supabase
+- 🟡 [Lapis](https://leafo.net/lapis/)
+- 🟡 [LÖVE](https://love2d.org/)
 - 🟡 PostgreSQL
-- ❓ ReactJS
+
 
 
     </td>
@@ -57,8 +50,8 @@ React](https://github.com/daelvn/pestergen-react)
 ### Tools
 - ✅ VSCode
 - ✅ [Twine](https://twinery.org/)
-- 🟡 Vim
-- ❓ Docker
+- ✅ Vim
+- 🟡 Docker
 
 
     </td>
